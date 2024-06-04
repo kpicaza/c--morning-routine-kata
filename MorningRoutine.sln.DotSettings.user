@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b4b1ea00_002D44f6_002D405f_002D8671_002Dd7f814b1e311/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::741DA873-7939-48F6-AEC6-FE1208B8832A::net7.0::MorningRoutine.Test.Feature.MorningRoutineTest.Should_show_No_Read_between_7_00_and_7_29&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::741DA873-7939-48F6-AEC6-FE1208B8832A::net7.0::MorningRoutine.Test.Unit.ActivityRepositoryTest.Should_return_an_activity_for_given_Time&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::741DA873-7939-48F6-AEC6-FE1208B8832A::net7.0::MorningRoutine.Test.Unit.ActivityRepositoryTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::741DA873-7939-48F6-AEC6-FE1208B8832A::net7.0::MorningRoutine.Test.Feature.MorningRoutineTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::741DA873-7939-48F6-AEC6-FE1208B8832A::net7.0::MorningRoutine.Test.Unit.MorningRoutineTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
